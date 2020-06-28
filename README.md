@@ -1,4 +1,4 @@
-# Front-End - Iniciante - Tribute Page
+# Front-End - beginner - Tribute Page
 
 Repositório criando durante o curso:
 
