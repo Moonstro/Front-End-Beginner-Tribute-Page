@@ -2,11 +2,10 @@
 
 Repositório criando durante o curso:
 
- - Responsive Web Design (FreeCodeCamp).
+Responsive Web Design (FreeCodeCamp).
+O segundo projeto desse curso é a Tribute Page.
 
-O primeiro projeto desse curso é a Tribute Page.
-
-Nesse projeto foi utilizado:
+Nesse projeto foram utilizadas:
 
 -HTML;
 
